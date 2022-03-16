@@ -1,0 +1,13 @@
+body {
+  background-color: green;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: white;
+}
+
+div {
+  text-align: center;
+}
+
+.sucks {
+  color: red;
+}
